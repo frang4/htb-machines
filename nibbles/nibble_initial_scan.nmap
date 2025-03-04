@@ -1,0 +1,12 @@
+# Nmap 7.93 scan initiated Sun Jan 29 17:07:14 2023 as: nmap -sV --open -oA nibble_initial_scan 10.129.132.220
+Nmap scan report for 10.129.132.220
+Host is up (0.23s latency).
+Not shown: 878 closed tcp ports (conn-refused), 120 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.2 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Jan 29 17:07:28 2023 -- 1 IP address (1 host up) scanned in 14.22 seconds
