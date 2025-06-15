@@ -1,0 +1,20 @@
+[2K# directory-list-2.3-small.txt [Status: 200, Size: 3435, Words: 804, Lines: 100, Duration: 301ms][0m
+[2K# Copyright 2007 James Fisher [Status: 200, Size: 3435, Words: 804, Lines: 100, Duration: 267ms][0m
+[2K#                       [Status: 200, Size: 3435, Words: 804, Lines: 100, Duration: 259ms][0m
+[2K#                       [Status: 200, Size: 3435, Words: 804, Lines: 100, Duration: 229ms][0m
+[2K#                       [Status: 200, Size: 3435, Words: 804, Lines: 100, Duration: 183ms][0m
+[2K# Suite 300, San Francisco, California, 94105, USA. [Status: 200, Size: 3435, Words: 804, Lines: 100, Duration: 188ms][0m
+[2K# or send a letter to Creative Commons, 171 Second Street, [Status: 200, Size: 3435, Words: 804, Lines: 100, Duration: 193ms][0m
+[2K# license, visit http://creativecommons.org/licenses/by-sa/3.0/ [Status: 200, Size: 3435, Words: 804, Lines: 100, Duration: 203ms][0m
+[2K# Priority-ordered case-sensitive list, where entries were found [Status: 200, Size: 3435, Words: 804, Lines: 100, Duration: 215ms][0m
+[2K#                       [Status: 200, Size: 3435, Words: 804, Lines: 100, Duration: 219ms][0m
+[2Kabout                   [Status: 200, Size: 818, Words: 143, Lines: 23, Duration: 224ms][0m
+[2K# This work is licensed under the Creative Commons [Status: 200, Size: 3435, Words: 804, Lines: 100, Duration: 254ms][0m
+[2K                        [Status: 200, Size: 3435, Words: 804, Lines: 100, Duration: 239ms][0m
+[2K# on at least 3 different hosts [Status: 200, Size: 3435, Words: 804, Lines: 100, Duration: 270ms][0m
+[2Klogin                   [Status: 200, Size: 730, Words: 103, Lines: 24, Duration: 181ms][0m
+[2Kregister                [Status: 200, Size: 741, Words: 103, Lines: 24, Duration: 233ms][0m
+[2K# Attribution-Share Alike 3.0 License. To view a copy of this [Status: 200, Size: 3435, Words: 804, Lines: 100, Duration: 193ms][0m
+[2Klogout                  [Status: 302, Size: 189, Words: 18, Lines: 6, Duration: 171ms][0m
+[2Kcodes                   [Status: 302, Size: 199, Words: 18, Lines: 6, Duration: 169ms][0m
+[2K                        [Status: 200, Size: 3435, Words: 804, Lines: 100, Duration: 168ms][0m
